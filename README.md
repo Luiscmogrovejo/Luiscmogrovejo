@@ -6,6 +6,7 @@
 
 -- Lead Backend dev at https://github.com/Future-Wallet/skia-wallet --
 -- Lead Full Stack dev at https://royaltz.netlify.com --
+-- Check also www.trustgems.org, I made the hole page from solidity to frontend --
 
 <!---
 Luiscmogrovejo/Luiscmogrovejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
