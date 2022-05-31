@@ -5,7 +5,7 @@
 - 📫 How to reach me: DM me
 
 -- Lead Backend dev at https://github.com/Future-Wallet/skia-wallet --
--- Lead Full Stack dev at https://royalts.netlity.com --
+-- Lead Full Stack dev at https://royaltz.netlity.com --
 
 <!---
 Luiscmogrovejo/Luiscmogrovejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
