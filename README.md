@@ -23,6 +23,5 @@ Hi, I’m a Full-Stack Web3 dev. I work in solidity and deployment on EVM compat
 
 -- Lead Backend dev at https://github.com/Future-Wallet/skia-wallet --
 -- Lead Full Stack dev at https://royaltz.netlify.com --
--- Check also www.trustgems.org, I made the hole page from solidity to frontend --
 
 
