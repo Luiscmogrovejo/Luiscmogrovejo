@@ -21,7 +21,4 @@ Hi, I’m a Full-Stack Web3 dev. I work in solidity and deployment on EVM compat
 - Firebase:Google plataform to compile and launch web apps.
 - Photoshop:Basic illustration skills
 
--- Lead Backend dev at https://github.com/Future-Wallet/skia-wallet --
--- Lead Full Stack dev at https://royaltz.netlify.com --
-
 
