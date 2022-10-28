@@ -4,37 +4,16 @@
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me: DM me
 
-Hi, I’m a Full-Stack Web3 dev. I work in solidity and deployment on EVM compatible blockchains, you can check my stack at my webpage portafolioweb3.netlify.app
+My work in web3 consists of developing smart contracts and backend/frontend for NFT Marketplaces, Minting sites, DeFi, Solidity Bots, Flash Loans, NTTs, Private token sales, and more. I can do front-end as much as backend or solidity. I’m currently employed at Always August, a Toronto based web developer company, as Web3 Engineer. 
 
-My stack consists of:
-•	Solidity
-•	Remix IDE
-•	The Graph Protocol
-•	Chainlink Protocol
-•	OpenZeppelin libraries
-•	GraphQL
-•	Typescrypt
-•	Javascirpt
-•	Redux
-•	React
-•	NextJS
-•	Web3
-•	Ethers
-•	Truffle
-•	Hardhat
-•	TailwindCSS
-•	Firebase
-•	Python
-•	HTML5
-•	CSS
-•	Netlify Pro
-•	Github Pro
-•	Excel Macros
-•	Visual Basic
-•	C++
-•	EVM OpCode
-•	EVM Bytecode
-•	Vyper
+I’m not your average dev, I bring more than just typing some words on solidty or typescript just to earn a living. I feel very passionate about coding and learning more about how to better myself as a developer and as a team player that can be of benefit to my co-workers and a useful and resourceful asset to my managers so we can all get a great product on market.
+
+My stack consists of: 
+• Solidity • Remix IDE • Smart Contract Auditing software • Linux • Git • The Graph Protocol • Chainlink Protocol • OpenZeppelin libraries • GraphQL • Typescrypt • Javascirpt • Redux • React • NextJS • Web3 • Ethers • Truffle • Hardhat • TailwindCSS • Photoshop • Premiere Pro • Firebase • Python • HTML5 • CSS • Netlify Pro • Github Pro • Excel Macros • Visual Basic • C++ • EVM OpCode • EVM Bytecode • Vyper
+
+You can find my developer portfolio at
+https://github.com/Luiscmogrovejo
+
 
 You can contact me at luis.c.mogrovejo@gmail.com
 
