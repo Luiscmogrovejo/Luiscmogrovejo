@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lcmp87
 - 👀 I’m interested in skate, crypto, coding and gaming
-- 🌱 I’m currently learning Rust, Viper and EVM BYTECODE Decryption
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me: DM me
 
@@ -13,7 +12,6 @@ My stack consists of:
 
 You can find my developer portfolio at
 https://github.com/Luiscmogrovejo
-
 
 You can contact me at luis.c.mogrovejo@gmail.com
 
