@@ -13,13 +13,13 @@ My stack consists of:
 You can find my developer portfolio at
 https://github.com/Luiscmogrovejo
 
-Projects worked on:
-Stoner Cats - https://www.stonercats.com/
-Cirus - https://cirusfoundation.com/
-Aion Network - https://mainnet.theoan.com/#/dashboard
-Skia Wallet - https://www.skiawallet.xyz/initialization
-Very Banking -- Coming Soon
-Starin NFT -- Coming Soon
+Projects worked on: <br>
+Stoner Cats - https://www.stonercats.com/ <br>
+Cirus - https://cirusfoundation.com/ <br>
+Aion Network - https://mainnet.theoan.com/#/dashboard <br>
+Skia Wallet - https://www.skiawallet.xyz/initialization <br>
+Very Banking -- Coming Soon <br>
+Starin NFT -- Coming Soon <br>
 
 You can contact me at luis.c.mogrovejo@gmail.com
 
