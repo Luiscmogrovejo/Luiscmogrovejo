@@ -19,7 +19,7 @@ Cirus - https://cirusfoundation.com/ <br>
 Aion Network - https://mainnet.theoan.com/#/dashboard <br>
 Skia Wallet - https://www.skiawallet.xyz/initialization <br>
 Very Banking - https://ownership.very-banking.org <br>
-Starin NFT -- Coming Soon <br>
+Starin NFT -- https://www.strainnft.io <br>
 
 You can contact me at luis.c.mogrovejo@gmail.com
 
