@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me: DM me
 
-Check out KRYPTO KREDIT my latest project which ended up top 15 from 436 on thee ETHDenver Hackaton.<br>
+Check out KRYPTO KREDIT my latest project which ended up top 15 from 436 teams on the ETHDenver Hackaton.<br>
 https://linktr.ee/kryptokredit
 
 My work in web3 consists of developing smart contracts and backend/frontend for NFT Marketplaces, Minting sites, DeFi, Solidity Bots, Flash Loans, NTTs, Private token sales, and more. I can do front-end as much as backend or solidity. I’m currently employed at Always August, a Toronto based web developer company, as Web3 Engineer. 
