@@ -1,18 +1,25 @@
-- 👋 Hi, I’m @lcmp87
-- 👀 I’m interested in skate, crypto, coding and gaming
-- 💞️ I’m looking to collaborate on web3 projects
-- 📫 How to reach me: DM me
+Hi, I’m Luis Mogrovejo (@lcmp87)
 
-My work in web3 consists of developing smart contracts and backend/frontend for NFT Marketplaces, Minting sites, DeFi, Solidity Bots, Flash Loans, NTTs, Private token sales, and more. I can do front-end as much as backend or solidity. I’m currently employed at Always August, a Toronto based web developer company, as Web3 Engineer. 
+🚀 About Me: Senior Fullstack Engineer with a passion for blending the worlds of blockchain and gaming. With over 5 years of experience, I specialize in creating scalable backends, integrating blockchain technologies, and leading innovative projects in the Web3 space.
 
-I’m not your average dev, I bring more than just typing some words on the computer just to earn a living. I feel very passionate about coding and learning more about how to better myself as a developer and as a team player that can be of benefit to my co-workers and a useful and resourceful asset to my managers so we can all get a great product on market.
+👀 Interests: Skateboarding, Cryptocurrency, Coding, Gaming, and Street Luge.
 
-My stack consists of: <br>
-• Solidity • Remix IDE • Smart Contract Auditing software • Linux • Git • The Graph Protocol • Chainlink Protocol • OpenZeppelin libraries • GraphQL • Typescrypt • Javascirpt • Redux • React • NextJS • Web3 • Ethers • Truffle • Hardhat • TailwindCSS • Photoshop • Premiere Pro • Firebase • Python • HTML5 • CSS • Netlify Pro • Github Pro • Excel Macros • Visual Basic • C++ • EVM OpCode • EVM Bytecode • Vyper
+💼 Current Role: Lead Engineer at GameOn, focusing on multi-tenant backend architecture and blockchain integration in gaming.
 
-You can find my developer portfolio at
-https://github.com/Luiscmogrovejo
+🔨 My Skillset:
 
-You can contact me at luis.c.mogrovejo@gmail.com
+Languages: Solidity, Rust, Python, JavaScript, TypeScript, Golang
+Frameworks: React, Redux, NextJS, NestJS, Express, Web3, Ethers, Hardhat, Truffle, Foundry
+Technologies: GraphQL, SQL, HTML, CSS, Docker, Kubernetes, AWS, Linux, Redis, PostgreSQL, Terraform, Websockets, Datadog
 
-Also check my skate videos at www.facebook.com/DHMEDIAPERU
+🌟 Unique Contributions:
+
+I’m not just a developer; I’m a problem-solver who brings passion and creativity to every project. My focus is on crafting high-impact user experiences and robust backend systems.
+Proven leadership in team development and project management.
+
+🔗 Links:
+
+[LinkedIn Profile](https://www.linkedin.com/in/luismogrovejo/)
+[Developer Portfolio](https://www.itemslabs.com/)
+[Skate Videos](https://www.facebook.com/DHMEDIAPERU)
+📫 Contact Me: luis.c.mogrovejo@gmail.com | +51932279986
