@@ -43,8 +43,8 @@ I'm a Senior Fullstack Engineer with over 5 years of experience, specializing in
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/luismogrovejo/)
-- [Developer Portfolio](#) (Link to your portfolio)
-- [Skate Videos](#) (Link to your skateboarding videos)
+- [Developer Portfolio](#) 
+- [Skate Videos](https://www.facebook.com/dhmediaperu) 
 
 ## 📫 Contact Me
 
