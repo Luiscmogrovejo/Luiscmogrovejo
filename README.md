@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Senior Fullstack Engineer with over 5 years of experience, specializing in creating scalable backends and integrating blockchain technologies. I have a passion for blending the worlds of blockchain and gaming, leading innovative projects in the Web3 space. My focus is on crafting high-impact user experiences and robust backend systems, ensuring security, scalability, and efficiency.
+I'm a Senior Fullstack Engineer with over 10 years of experience, specializing in creating scalable backends and integrating blockchain technologies. I have a passion for blending the worlds of blockchain and gaming, leading innovative projects in the Web3 space. My focus is on crafting high-impact user experiences and robust backend systems, ensuring security, scalability, and efficiency.
 
 ## 👀 Interests
 
