@@ -6,7 +6,6 @@ I'm a Senior Fullstack Engineer with over 10 years of experience, specializing i
 
 ## 👀 Interests
 
-- Skateboarding
 - Cryptocurrency
 - Coding
 - Gaming
