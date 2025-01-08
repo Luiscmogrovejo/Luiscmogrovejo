@@ -9,7 +9,6 @@ I'm a Senior Fullstack Engineer with over 10 years of experience, specializing i
 - Cryptocurrency
 - Coding
 - Gaming
-- Street Luge
 
 ## 💼 Current Role
 
@@ -42,8 +41,7 @@ I'm a Senior Fullstack Engineer with over 10 years of experience, specializing i
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/luismogrovejo/)
-- [Developer Portfolio](#) 
-- [Skate Videos](https://www.facebook.com/dhmediaperu) 
+- [Developer Portfolio](https://github.com/Luiscmogrovejo) 
 
 ## 📫 Contact Me
 
